@@ -1,0 +1,14 @@
+Power BI Desktop:
+Licensed by user
+Free report authoring and ad-hoc data exploration
+cost:Free
+
+Power BI Pro:
+Licensed by user
+Quick,easy to use self service analytics for users requiring collaboration, dashboard sharing, ad hoc analysis, and report publishing.
+cost:$9.99/month
+
+Power BI Premiun:
+Licensed by capacity
+An add-on to Power BI Pro for projects requiring large scale data, performance and ability to distribute content without requiring per user licensing.
+cost:$4,995/month
